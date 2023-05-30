@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joseehilton147&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="joseehilton147" /> </p>
 
-- 🔭 Creating the project [VS](https://github.com/joseehilton147/torrent-finder](https://github.com/joseehilton147/vs)
+- 🔭 Creating the project [VS](https://github.com/joseehilton147/vs)
 
 - 🌱 Learning **Nuxt 3 | UnoCSS | TailwindCSS**
 
