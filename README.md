@@ -6,7 +6,7 @@
 
 - 🌱 Learning **Nuxt 3 | UnoCSS | TailwindCSS**
 
-- 💼 Currently working at [Cliqx](https://cliqx.com.br/)
+- 💼 Currently working at Stone
 
 - 👨‍💻 All my projects are available at [https://github.com/joseehilton147?tab=repositories](https://github.com/joseehilton147?tab=repositories)
 
