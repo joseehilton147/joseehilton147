@@ -70,11 +70,3 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-<h2 align="left">Misc</h3>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=joseehilton147&count_private=true&show_icons=true&theme=dark" alt="joseehilton147" />
-
-<img align="center" src="https://streak-stats.demolab.com?user=joseehilton147&theme=dark" alt="joseehilton147" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseehilton147&show_icons=true&theme=dark" alt="joseehilton147" />
