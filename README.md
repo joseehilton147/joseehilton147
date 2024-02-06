@@ -4,7 +4,7 @@
 
 - 🔭 Creating the project [My Resume](https://my-resume-ka.vercel.app/) using [VS Components](https://github.com/joseehilton147/vs)
 
-- 🌱 Learning **Nuxt 3 | UnoCSS | TailwindCSS**
+- 🌱 Using **Javascript** most of the time **Vue** and **Node.js**
 
 - 💼 Currently working at Stone
 
