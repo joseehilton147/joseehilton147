@@ -6,7 +6,7 @@
 
 - 🌱 Using **Javascript** most of the time **Vue** and **Node.js**
 
-- 💼 Currently working at Stone
+- 💼 Currently working at [WeHandle](https://www.linkedin.com/company/wehandle)
 
 - 👨‍💻 All my projects are available at [https://github.com/joseehilton147?tab=repositories](https://github.com/joseehilton147?tab=repositories)
 
