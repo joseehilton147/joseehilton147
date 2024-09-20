@@ -12,8 +12,6 @@
 
 - 💬 My main interests are **Vue | NUXT | Atomic Design**
 
-- 📫 Contact me at **joseehilton147@gmail.com**
-
 - 🔗 Connect with me at [Linkedin](https://linkedin.com/in/jose-hilton/)
 
 <h2 align="left">Skills</h3>
