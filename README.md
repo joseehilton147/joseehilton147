@@ -4,9 +4,9 @@
 
 - 🔭 Creating the project [My Resume](https://my-resume-ka.vercel.app/) using [VS Components](https://github.com/joseehilton147/vs)
 
-- 🌱 Using **Javascript** most of the time **Vue** and **Node.js**
+- 🌱 Using **Javascript** most of the time with **Vue** and **Node.js**
 
-- 💼 Currently working at [WeHandle](https://www.linkedin.com/company/wehandle)
+- 💼 Currently working at [WeHandle](https://www.linkedin.com/company/wehandle) with **Java**/**Spring**
 
 - 👨‍💻 All my projects are available at [https://github.com/joseehilton147?tab=repositories](https://github.com/joseehilton147?tab=repositories)
 
