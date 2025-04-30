@@ -58,7 +58,6 @@
 ---
 
 ## 📈 Projetos Atuais
-🔹 **[Frases Espíritas](https://github.com/joseehilton147/frases-espiritas)** – Aplicação fullstack com **Spring Boot** e **Next.js**  
-🔹 Aprimorando conhecimento em **arquiteturas escaláveis**
+🔹 **[Frases Espíritas](https://github.com/joseehilton147/frases-espiritas)** – Aplicação fullstack com **Spring Boot** e **Next.js** <br/>
+🔹 Aprimorando conhecimento em **arquiteturas escaláveis**<br/>
 🔹 Aprimorando conhecimento no **Mundo das IA's**
-
