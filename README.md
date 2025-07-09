@@ -7,7 +7,7 @@
 - 🌱 Explorando **Next.js** para novos projetos  
 - 💬 Interesses atuais em **Arquiteturas Escaláveis e IA's**  
 - 📌 **Projetos:**  
-  - [Alfredo](https://github.com/joseehilton147/Alfredo) → **Python + IA**
+  - [Alfredo](https://github.com/joseehilton147/Alfredo) → **Python (vibe code)+ IA (non vibe logic)**
 - 🔗 **Conecte-se comigo:** [LinkedIn](https://linkedin.com/in/jose-hilton/)
 
 ---
@@ -57,7 +57,7 @@
 
 ---
 
-## 📈 Projetos Atuais
+## 📈 Projetos Atuais além do Alfredo que irá sair do papel futuramente:
 🔹 **[Frases Espíritas](https://github.com/joseehilton147/frases-espiritas)** – Aplicação fullstack com **Spring Boot** e **Next.js** <br/>
 🔹 Aprimorando conhecimento em **arquiteturas escaláveis**<br/>
 🔹 Aprimorando conhecimento no **Mundo das IA's**
