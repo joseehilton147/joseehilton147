@@ -1,5 +1,5 @@
 <h1 align="center">Aoba 👋</h1>
-<h3 align="center">Tech Lead & Full Stack Developer</h3>
+<h3 align="center">Problem Solver & Full Stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joseehilton147&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="joseehilton147" /> </p>
 
