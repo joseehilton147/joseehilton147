@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joseehilton147&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="joseehilton147" /> </p>
 
-- 🔭 **Atualmente trabalhando na [WeHandle](https://www.linkedin.com/company/wehandle)** como **Tech Lead**, utilizando **Java | PostgreSQL | Javascript**
+- 🔭 **Atualmente trabalhando na [WeHandle](https://www.linkedin.com/company/wehandle)** como **Senior FrontEnd Enginner**, utilizando **Java | PostgreSQL | Javascript | React**
 - 🌱 Explorando **Next.js** para novos projetos  
 - 💬 Interesses atuais em **Arquiteturas Escaláveis e IA's**  
 - 📌 **Projetos:**  
-  - [Frases Espíritas](https://github.com/joseehilton147/frases-espiritas) → **Spring Boot + Next.js**
+  - [Alfredo](https://github.com/joseehilton147/Alfredo) → **Python + IA**
 - 🔗 **Conecte-se comigo:** [LinkedIn](https://linkedin.com/in/jose-hilton/)
 
 ---
