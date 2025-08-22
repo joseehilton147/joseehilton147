@@ -72,6 +72,10 @@
 
 ### 📈 Projetos para Aprendizado e Desenvolvimento
 
--   **[Alfredo - Maestro de Orquestração MCP](https://github.com/joseehilton147/Alfredo)**: Orquestrador de workflows de desenvolvimento em fase conceitual, projetado para unificar o contexto de múltiplas fontes (Jira, GitHub, Figma) em uma única operação com LLMs via Model Context Protocol (MCP). O objetivo é aplicar **Clean Architecture** e **DDD** para automatizar a análise de requisitos e o design técnico, visando reduzir drasticamente as interações manuais no ciclo de desenvolvimento.
+-   **[Alfredo - Maestro de Orquestração MCP](https://github.com/joseehilton147/Alfredo)**: Orquestrador de workflows de desenvolvimento em fase conceitual, projetado para unificar o contexto de múltiplas fontes (Jira, GitHub, Figma) em uma única operação com LLMs via **Model Context Protocol (MCP)**. Construído com **Clean Architecture** e **DDD** para criar workflows inteligentes e integrados.
+
+-   **[Task Status Checker](https://github.com/joseehilton147/task-status-checker)**: Gerenciador de estado de tarefas assíncronas com zero dependências, usando sistema de arquivos. Projetado para orquestração de **Agentes de IA** e workflows automatizados, com capacidades de servidor **MCP** integradas. Oferece rastreamento em tempo real de status de tarefas e persistência baseada em JSON no diretório `.alfredo/tasks/`.
+
+-   **Alfredo Agents**: Coleção especializada de agentes de IA que trabalham dentro do ecossistema Alfredo. Estes agentes lidam com tarefas de domínio específico e integram com a camada de orquestração **MCP** para automação inteligente. Repositório privado focado em workflows de desenvolvimento assistido por IA.
 
 -   **[Frases Espíritas](https://github.com/joseehilton147/frases-espiritas)**: Sistema de gerenciamento de conteúdo (CMS) com arquitetura desacoplada. A API RESTful, construída com **Spring Boot** e **Java 17**, oferece operações de CRUD e busca para a gestão de frases, utilizando PostgreSQL como banco de dados. O frontend administrativo é uma aplicação reativa em **Next.js** com **Tailwind CSS**. O projeto é totalmente containerizado com **Docker** e orquestrado via **Docker Compose** para simplificar o ambiente de desenvolvimento e produção.
