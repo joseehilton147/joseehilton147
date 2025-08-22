@@ -74,6 +74,10 @@
 
 ### 📈 Learning & Development Projects
 
--   **[Alfredo - MCP Orchestration Maestro](https://github.com/joseehilton147/Alfredo)**: A conceptual development workflow orchestrator designed to unify context from multiple sources (Jira, GitHub, Figma) into a single operation with LLMs via the Model Context Protocol (MCP). The objective is to apply **Clean Architecture** and **DDD** to automate requirement analysis and technical design, aiming to drastically reduce manual interactions in the development lifecycle.
+-   **[Alfredo - MCP Orchestration Maestro](https://github.com/joseehilton147/Alfredo)**: A conceptual development workflow orchestrator designed to unify context from multiple sources (Jira, GitHub, Figma) into a single operation with LLMs via **Model Context Protocol (MCP)**. Built with **Clean Architecture** and **DDD** to create intelligent and integrated workflows.
+
+-   **[Task Status Checker](https://github.com/joseehilton147/task-status-checker)**: Zero-dependency asynchronous task state manager using the file system. Designed for **AI Agent** orchestration and automated workflows, with integrated **MCP** server capabilities. Provides real-time task status tracking and JSON-based persistence in `.alfredo/tasks/` directory.
+
+-   **Alfredo Agents**: Specialized collection of AI agents that work within the Alfredo ecosystem. These agents handle domain-specific tasks and integrate with the **MCP** orchestration layer for intelligent automation. Private repository focused on AI-assisted development workflows.
 
 -   **[Frases Espíritas](https://github.com/joseehilton147/frases-espiritas)**: A content management system (CMS) with a decoupled architecture. The RESTful API, built with **Spring Boot** and **Java 17**, provides CRUD and search operations for managing quotes, using PostgreSQL as the database. The administrative frontend is a reactive application built with **Next.js** and **Tailwind CSS**. The project is fully containerized with **Docker** and orchestrated via **Docker Compose** to simplify development and production environments.
