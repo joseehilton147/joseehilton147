@@ -72,7 +72,7 @@
 
 ### 📈 Projetos para Aprendizado e Desenvolvimento
 
--   **[Alfredo - Maestro de Orquestração MCP](https://github.com/joseehilton147/Alfredo)**: Orquestrador de workflows de desenvolvimento em fase conceitual, projetado para unificar o contexto de múltiplas fontes (Jira, GitHub, Figma) em uma única operação com LLMs via **Model Context Protocol (MCP)**. Construído com **Clean Architecture** e **DDD** para criar workflows inteligentes e integrados.
+-   **[Alfredo - O agente que conecta suas ferramentas](https://github.com/alfredo-ia)**: Orquestrador de workflows de desenvolvimento em fase conceitual, projetado para unificar o contexto de múltiplas fontes (Jira, GitHub, Figma) em uma única operação com LLMs via **Model Context Protocol (MCP)**. Construído com **Clean Architecture** e **DDD** para criar workflows inteligentes e integrados.
 
 -   **[Task Status Checker](https://github.com/joseehilton147/task-status-checker)**: Gerenciador de estado de tarefas assíncronas com zero dependências, usando sistema de arquivos. Projetado para orquestração de **Agentes de IA** e workflows automatizados, com capacidades de servidor **MCP** integradas. Oferece rastreamento em tempo real de status de tarefas e persistência baseada em JSON no diretório `.alfredo/tasks/`.
 
