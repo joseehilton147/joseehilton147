@@ -74,7 +74,7 @@
 
 ### 📈 Learning & Development Projects
 
--   **[Alfredo - MCP Orchestration Maestro](https://github.com/joseehilton147/Alfredo)**: A conceptual development workflow orchestrator designed to unify context from multiple sources (Jira, GitHub, Figma) into a single operation with LLMs via **Model Context Protocol (MCP)**. Built with **Clean Architecture** and **DDD** to create intelligent and integrated workflows.
+-   **[Alfredo - The agent that connects your tools](https://github.com/alfredo-ia)**: A conceptual development workflow orchestrator designed to unify context from multiple sources (Jira, GitHub, Figma) into a single operation with LLMs via **Model Context Protocol (MCP)**. Built with **Clean Architecture** and **DDD** to create intelligent and integrated workflows.
 
 -   **[Task Status Checker](https://github.com/joseehilton147/task-status-checker)**: Zero-dependency asynchronous task state manager using the file system. Designed for **AI Agent** orchestration and automated workflows, with integrated **MCP** server capabilities. Provides real-time task status tracking and JSON-based persistence in `.alfredo/tasks/` directory.
 
