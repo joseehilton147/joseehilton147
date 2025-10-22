@@ -76,7 +76,7 @@
 
 -   **[Alfredo - The agent that connects your tools](https://github.com/alfredo-ia)**: A conceptual development workflow orchestrator designed to unify context from multiple sources (Jira, GitHub, Figma) into a single operation with LLMs via **Model Context Protocol (MCP)**. Built with **Clean Architecture** and **DDD** to create intelligent and integrated workflows.
 
--   **[Task Status Checker](https://github.com/joseehilton147/task-status-checker)**: Zero-dependency asynchronous task state manager using the file system. Designed for **AI Agent** orchestration and automated workflows, with integrated **MCP** server capabilities. Provides real-time task status tracking and JSON-based persistence in `.alfredo/tasks/` directory.
+-   **[Solilóquio](https://github.com/joseehilton147/soliloquio)**: A *local-first*, full-stack digital 'grimoire' designed for personal reflection and knowledge management. The application runs as a 100% offline private server using **TanStack Start**, with data persistence in **SQLite** managed by **Drizzle ORM**. The architecture leverages the entire TanStack ecosystem (**Router**, **Query**, **Form**) and **shadcn/ui** for a minimalist, text-focused interface.
 
 -   **Alfredo Agents**: Specialized collection of AI agents that work within the Alfredo ecosystem. These agents handle domain-specific tasks and integrate with the **MCP** orchestration layer for intelligent automation. Private repository focused on AI-assisted development workflows.
 
