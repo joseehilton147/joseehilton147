@@ -74,10 +74,8 @@
 
 ### 📈 Learning & Development Projects
 
--   **[Alfredo - The agent that connects your tools](https://github.com/alfredo-ia)**: A conceptual development workflow orchestrator designed to unify context from multiple sources (Jira, GitHub, Figma) into a single operation with LLMs via **Model Context Protocol (MCP)**. Built with **Clean Architecture** and **DDD** to create intelligent and integrated workflows.
+-   **[Alfredo - The agent that connects your tools](https://github.com/joseehilton147/Afredo)**: A production-ready AI development environment that orchestrates your workflow through specialized agents—each assigned to tasks matching its strengths. Built on top of [OpenCode](https://opencode.ai/) with auto-updating references, it features a curated set of MCP providers (web search, documentation lookup, design systems), intelligent plugins (quota management, continuous dev loops, question enforcement), and a complete CLI for seamless configuration. Implements Clean Architecture principles with TypeScript strict mode, enabling AI-assisted workflows that stay current with upstream changes automatically.
 
 -   **[Solilóquio](https://github.com/joseehilton147/soliloquio)**: A *local-first*, full-stack digital 'grimoire' designed for personal reflection and knowledge management. The application runs as a 100% offline private server using **TanStack Start**, with data persistence in **SQLite** managed by **Drizzle ORM**. The architecture leverages the entire TanStack ecosystem (**Router**, **Query**, **Form**) and **shadcn/ui** for a minimalist, text-focused interface.
-
--   **Alfredo Agents**: A private specialized collection of AI agents that work within the Alfredo ecosystem. These agents handle domain-specific tasks and integrate with the **MCP** orchestration layer for intelligent automation. Private repository focused on AI-assisted development workflows.
-
+-   
 -   **[Frases Espíritas](https://github.com/joseehilton147/frases-espiritas)**: A content management system (CMS) with a decoupled architecture. The RESTful API, built with **Spring Boot** and **Java 17**, provides CRUD and search operations for managing quotes, using PostgreSQL as the database. The administrative frontend is a reactive application built with **Next.js** and **Tailwind CSS**. The project is fully containerized with **Docker** and orchestrated via **Docker Compose** to simplify development and production environments.
