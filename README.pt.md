@@ -76,6 +76,4 @@
 
 -   **[Solilóquio](https://github.com/joseehilton147/soliloquio)**: Um 'grimório' digital *local-first* e full-stack, projetado para reflexão pessoal e gerenciamento de conhecimento. A aplicação roda como um servidor privado 100% offline usando **TanStack Start**, com persistência de dados em **SQLite** gerenciada pelo **Drizzle ORM**. A arquitetura utiliza todo o ecossistema TanStack (**Router**, **Query**, **Form**) e **shadcn/ui** para uma interface minimalista e focada no texto.
 
--   **Alfredo Agents**: Coleção privada especializada de agentes de IA que trabalham dentro do ecossistema Alfredo. Estes agentes lidam com tarefas de domínio específico e integram com a camada de orquestração **MCP** para automação inteligente. Repositório privado focado em workflows de desenvolvimento assistido por IA.
-
 -   **[Frases Espíritas](https://github.com/joseehilton147/frases-espiritas)**: Sistema de gerenciamento de conteúdo (CMS) com arquitetura desacoplada. A API RESTful, construída com **Spring Boot** e **Java 17**, oferece operações de CRUD e busca para a gestão de frases, utilizando PostgreSQL como banco de dados. O frontend administrativo é uma aplicação reativa em **Next.js** com **Tailwind CSS**. O projeto é totalmente containerizado com **Docker** e orquestrado via **Docker Compose** para simplificar o ambiente de desenvolvimento e produção.
