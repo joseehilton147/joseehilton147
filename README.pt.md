@@ -32,14 +32,12 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
 #### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
@@ -72,7 +70,9 @@
 
 ### 📈 Projetos para Aprendizado e Desenvolvimento
 
--   [CLOSED-SOURCE] **[Alfredo - O agente que conecta suas ferramentas](https://github.com/joseehilton147/Afredo)**: Um ambiente de desenvolvimento com IA pronto para produção que orquestra seu workflow através de agentes especializados—cada um designado para tarefas que combinam com seus pontos fortes. Construído sobre o [OpenCode](https://opencode.ai/) com atualização automática de referências, inclui um conjunto curado de provedores MCP (busca web, consulta de documentação, design systems), plugins inteligentes (gerenciamento de quota, loops contínuos de desenvolvimento, enforcement de perguntas) e uma CLI completa para configuração simplificada. Implementa princípios de Clean Architecture com TypeScript strict mode, permitindo workflows assistidos por IA que se mantêm atualizados com mudanças upstream automaticamente.
+-   [CLOSED-SOURCE] **[Alfredo - O agente que conecta suas ferramentas](https://github.com/alfredo-ia/afredo)**: Um ambiente de desenvolvimento com IA pronto para produção que orquestra seu workflow através de agentes especializados—cada um designado para tarefas que combinam com seus pontos fortes. Construído sobre o [OpenCode](https://opencode.ai/) com atualização automática de referências, inclui um conjunto curado de provedores MCP (busca web, consulta de documentação, design systems), plugins inteligentes (gerenciamento de quota, loops contínuos de desenvolvimento, enforcement de perguntas) e uma CLI completa para configuração simplificada. Implementa princípios de Clean Architecture com TypeScript strict mode, permitindo workflows assistidos por IA que se mantêm atualizados com mudanças upstream automaticamente.
+
+-  **[Superset MCP](https://github.com/alfredo-ia/superset-mcp)**: Um *fork* de [Winding2020](https://github.com/Winding2020/superset-mcp) com autenticação via sessão.
 
 -   **[Solilóquio](https://github.com/joseehilton147/soliloquio)**: Um 'grimório' digital *local-first* e full-stack, projetado para reflexão pessoal e gerenciamento de conhecimento. A aplicação roda como um servidor privado 100% offline usando **TanStack Start**, com persistência de dados em **SQLite** gerenciada pelo **Drizzle ORM**. A arquitetura utiliza todo o ecossistema TanStack (**Router**, **Query**, **Form**) e **shadcn/ui** para uma interface minimalista e focada no texto.
 
