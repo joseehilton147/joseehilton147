@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
 #### ⚙️ Backend
@@ -41,7 +40,6 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
@@ -74,8 +72,10 @@
 
 ### 📈 Learning & Development Projects
 
--  [CLOSED-SOURCE] **[Alfredo - The agent that connects your tools](https://github.com/joseehilton147/Afredo)**: A production-ready AI development environment that orchestrates your workflow through specialized agents—each assigned to tasks matching its strengths. Built on top of [OpenCode](https://opencode.ai/) with auto-updating references, it features a curated set of MCP providers (web search, documentation lookup, design systems), intelligent plugins (quota management, continuous dev loops, question enforcement), and a complete CLI for seamless configuration. Implements Clean Architecture principles with TypeScript strict mode, enabling AI-assisted workflows that stay current with upstream changes automatically.
+-  [CLOSED-SOURCE] **[Alfredo - The agent that connects your tools](https://github.com/alfredo-ia/afredo)**: A production-ready AI development environment that orchestrates your workflow through specialized agents—each assigned to tasks matching its strengths. Built on top of [OpenCode](https://opencode.ai/) with auto-updating references, it features a curated set of MCP providers (web search, documentation lookup, design systems), intelligent plugins (quota management, continuous dev loops, question enforcement), and a complete CLI for seamless configuration. Implements Clean Architecture principles with TypeScript strict mode, enabling AI-assisted workflows that stay current with upstream changes automatically.
+
+-  **[Superset MCP](https://github.com/alfredo-ia/superset-mcp)**: A *fork* from [Winding2020](https://github.com/Winding2020/superset-mcp) with session authentication.
 
 -   **[Solilóquio](https://github.com/joseehilton147/soliloquio)**: A *local-first*, full-stack digital 'grimoire' designed for personal reflection and knowledge management. The application runs as a 100% offline private server using **TanStack Start**, with data persistence in **SQLite** managed by **Drizzle ORM**. The architecture leverages the entire TanStack ecosystem (**Router**, **Query**, **Form**) and **shadcn/ui** for a minimalist, text-focused interface.
--   
+
 -   **[Frases Espíritas](https://github.com/joseehilton147/frases-espiritas)**: A content management system (CMS) with a decoupled architecture. The RESTful API, built with **Spring Boot** and **Java 17**, provides CRUD and search operations for managing quotes, using PostgreSQL as the database. The administrative frontend is a reactive application built with **Next.js** and **Tailwind CSS**. The project is fully containerized with **Docker** and orchestrated via **Docker Compose** to simplify development and production environments.
